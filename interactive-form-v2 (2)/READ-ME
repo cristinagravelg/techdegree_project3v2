@@ -1,0 +1,18 @@
+/*READ ME File - Interactive Form Project
+
+The goal of this project is to use javascript to dynamically validate the user inputs of a form and make sure that all information is correct before submission. 
+
+The key objectives include:
+
+1. Set focus on the first text field upon page load
+
+2. Include a text field that will be revealed when the "Other" option is selected from the "Job Role" drop down menu.
+
+3. Customize the available options in the t-shirt selection depending on theme selection
+
+4. Validate that at least 1 activity was selected and that they user could not select activities with conflicting time schedules
+
+5. Add functionality to the payment method such that users could choose between the credit card, paypal and bitcoin
+
+6. Validate user inputs and prompt error messages if input was invalid */
+
